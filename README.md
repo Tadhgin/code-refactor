@@ -35,7 +35,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Refactors
 - Website title
-
+- New semantic tags
+- Labelled pictures
 
 ## Deployed Website
 
