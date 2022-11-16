@@ -31,14 +31,15 @@ The following image shows the web application's appearance and functionality:
 
 ![HoriseonPNGcustom](https://user-images.githubusercontent.com/117637052/202125527-eacf5357-6f2b-4f15-a65f-5f5440dab1fd.png)
 
-
-
 ## Refactors
 - Website title
 - New semantic tags
 - Labelled pictures
+- CSS; selectors more specific and debulked repetitive text
+- CSS synched with HTML
+- Listed comments for CSS & HTML
 
 ## Deployed Website
 
 Please follow this link to deployed webpage
-https://tadhgin.github.io/code-refactor/
+https://tadhgin.github.io/code-refactor
