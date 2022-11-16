@@ -25,11 +25,16 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+
+## Refactors
+- Website title
+
+
 ## Deployed Website
 
 Please follow this link to deployed webpage
 https://tadhgin.github.io/code-refactor/
-
-
-## Screenshot File
-Image depicts the deployed website after code refactoring, which has not changed the style or functionality
