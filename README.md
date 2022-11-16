@@ -37,4 +37,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Deployed Website
 Please follow this link to deployed webpage
-https://github.com/Tadhgin/code-refactor
+Tadhgin.github.io/code-refactor
