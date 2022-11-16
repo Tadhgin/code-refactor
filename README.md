@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -43,6 +44,10 @@ Accessibility can include complex requirements, but your tech lead has given you
 To impress clients, you should always exceed expectations and improve the codebase for long-term sustainability. For example, check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 Are you ready to begin? Here are this week's Challenge requirements.
+=======
+# Code Refactor for accessibility
+## Refactor an existing site to make it more accessible.
+>>>>>>> 806b78fe566f0ef6d603934628a5866c8ef208f4
 
 ## User Story
 
@@ -52,7 +57,11 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
+<<<<<<< HEAD
 ## Acceptance Criteria
+=======
+## Acceptance Criteria 
+>>>>>>> 806b78fe566f0ef6d603934628a5866c8ef208f4
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -72,6 +81,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
+<<<<<<< HEAD
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
@@ -156,3 +166,19 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+![HoriseonPNGcustom](https://user-images.githubusercontent.com/117637052/202125527-eacf5357-6f2b-4f15-a65f-5f5440dab1fd.png)
+
+## Refactors
+- Website title
+- New semantic tags
+- Labelled pictures
+- CSS; selectors more specific and debulked repetitive text
+- CSS synched with HTML
+- Listed comments for CSS & HTML
+
+## Deployed Website
+
+Please follow this link to deployed webpage
+https://tadhgin.github.io/code-refactor
+>>>>>>> 806b78fe566f0ef6d603934628a5866c8ef208f4
