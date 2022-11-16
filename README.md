@@ -31,5 +31,5 @@ Please follow this link to deployed webpage
 https://tadhgin.github.io/code-refactor/
 
 
-
+## Screenshot File
 Image depicts the deployed website after code refactoring, which has not changed the style or functionality
