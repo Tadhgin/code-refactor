@@ -1,10 +1,36 @@
-# Code Refactor
-## First homework task
-Due Thur 17/11/22
+# Code Refactor for accessibility
+## Refactor an existing site to make it more accessible.
 
-1: Please follow this link to the live webpage
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Acceptance Criteria 
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+
+
+
+
+Please follow this link to deployed webpage
 https://tadhgin.github.io/code-refactor/
 
-2: Please follow this link to my GitHub repo on this homework task
+
 
 Image depicts the deployed website after code refactoring, which has not changed the style or functionality
