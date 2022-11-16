@@ -25,8 +25,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-
-
+## Deployed Website
 
 Please follow this link to deployed webpage
 https://tadhgin.github.io/code-refactor/
