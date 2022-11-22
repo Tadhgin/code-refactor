@@ -1,3 +1,22 @@
+/* Header */
+
+header {
+	padding: 20px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	background-color: #2a607c;
+	color: #ffffff;
+}
+
+header h1 {
+	display: inline-block;
+	font-size: 48px;
+}
+
+header h1 .seo {
+	color: #d9dcd6;
+}
+
+
 /* Page-wide Styles */
 
 * {
@@ -17,24 +36,6 @@ a {
 
 p {
 	font-size: 16px;
-}
-
-/* Header */
-
-header {
-	padding: 20px;
-	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-	background-color: #2a607c;
-	color: #ffffff;
-}
-
-header h1 {
-	display: inline-block;
-	font-size: 48px;
-}
-
-header h1 .seo {
-	color: #d9dcd6;
 }
 
 /* Navigation */
